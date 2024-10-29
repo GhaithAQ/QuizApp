@@ -1,0 +1,243 @@
+[
+    {
+      "question": "What does the word 'ubiquitous' mean?",
+      "answer1": "Rare and uncommon",
+      "answer2": "Present everywhere",
+      "answer3": "Quickly changing",
+      "answer4": "Extremely large",
+      "correct_answer": "Present everywhere"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'ephemeral'?",
+      "answer1": "Long-lasting",
+      "answer2": "Transparent",
+      "answer3": "Short-lived",
+      "answer4": "Opaque",
+      "correct_answer": "Short-lived"
+    },
+    {
+      "question": "What is the definition of 'eloquent'?",
+      "answer1": "Fluent and persuasive in speaking or writing",
+      "answer2": "Shy and reserved",
+      "answer3": "Loud and boisterous",
+      "answer4": "Clumsy and awkward",
+      "correct_answer": "Fluent and persuasive in speaking or writing"
+    },
+    {
+      "question": "Which word means 'to make amends or compensate for wrongdoing'?",
+      "answer1": "Exacerbate",
+      "answer2": "Ameliorate",
+      "answer3": "Atone",
+      "answer4": "Aggravate",
+      "correct_answer": "Atone"
+    },
+    {
+      "question": "What does 'surreptitious' mean?",
+      "answer1": "Openly and honestly",
+      "answer2": "Kept secret, especially because it would not be approved of",
+      "answer3": "Extremely loud",
+      "answer4": "Brightly colored",
+      "correct_answer": "Kept secret, especially because it would not be approved of"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'verbose'?",
+      "answer1": "Using few words",
+      "answer2": "Using more words than necessary",
+      "answer3": "Speaking quickly",
+      "answer4": "Speaking slowly",
+      "correct_answer": "Using more words than necessary"
+    },
+    {
+      "question": "What is the definition of 'ambivalent'?",
+      "answer1": "Having mixed feelings or contradictory ideas",
+      "answer2": "Feeling extremely positive",
+      "answer3": "Feeling extremely negative",
+      "answer4": "Being indifferent",
+      "correct_answer": "Having mixed feelings or contradictory ideas"
+    },
+    {
+      "question": "Which word means 'to gradually wear away'?",
+      "answer1": "Erode",
+      "answer2": "Expand",
+      "answer3": "Elevate",
+      "answer4": "Enrich",
+      "correct_answer": "Erode"
+    },
+    {
+      "question": "What does 'nefarious' mean?",
+      "answer1": "Beneficial",
+      "answer2": "Wicked or criminal",
+      "answer3": "Transparent",
+      "answer4": "Joyful",
+      "correct_answer": "Wicked or criminal"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'apathy'?",
+      "answer1": "Intense interest",
+      "answer2": "Lack of interest or concern",
+      "answer3": "Extreme happiness",
+      "answer4": "Deep sadness",
+      "correct_answer": "Lack of interest or concern"
+    },
+    {
+      "question": "What is the definition of 'benevolent'?",
+      "answer1": "Kind and generous",
+      "answer2": "Cruel and selfish",
+      "answer3": "Indifferent and uncaring",
+      "answer4": "Angry and hostile",
+      "correct_answer": "Kind and generous"
+    },
+    {
+      "question": "Which word means 'to make less severe or intense'?",
+      "answer1": "Intensify",
+      "answer2": "Exacerbate",
+      "answer3": "Mitigate",
+      "answer4": "Aggravate",
+      "correct_answer": "Mitigate"
+    },
+    {
+      "question": "What does 'enigmatic' mean?",
+      "answer1": "Easy to understand",
+      "answer2": "Difficult to interpret or understand",
+      "answer3": "Predictable",
+      "answer4": "Straightforward",
+      "correct_answer": "Difficult to interpret or understand"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'resilient'?",
+      "answer1": "Easily broken",
+      "answer2": "Able to recover quickly from difficulties",
+      "answer3": "Highly sensitive",
+      "answer4": "Prone to giving up",
+      "correct_answer": "Able to recover quickly from difficulties"
+    },
+    {
+      "question": "What is the definition of 'vindictive'?",
+      "answer1": "Forgiving and understanding",
+      "answer2": "Having or showing a strong desire for revenge",
+      "answer3": "Indifferent to others' feelings",
+      "answer4": "Excited and enthusiastic",
+      "correct_answer": "Having or showing a strong desire for revenge"
+    },
+    {
+      "question": "Which word means 'to give up or surrender'?",
+      "answer1": "Relinquish",
+      "answer2": "Acquire",
+      "answer3": "Maintain",
+      "answer4": "Persist",
+      "correct_answer": "Relinquish"
+    },
+    {
+      "question": "What does 'quintessential' mean?",
+      "answer1": "Unusual or rare",
+      "answer2": "Representing the most perfect example of a quality",
+      "answer3": "Extremely large",
+      "answer4": "Highly complex",
+      "correct_answer": "Representing the most perfect example of a quality"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'pragmatic'?",
+      "answer1": "Idealistic and unrealistic",
+      "answer2": "Dealing with things sensibly and realistically",
+      "answer3": "Emotional and impulsive",
+      "answer4": "Theoretical and abstract",
+      "correct_answer": "Dealing with things sensibly and realistically"
+    },
+    {
+      "question": "What is the definition of 'tenacious'?",
+      "answer1": "Easily giving up",
+      "answer2": "Weak-willed",
+      "answer3": "Persistent and determined",
+      "answer4": "Indecisive",
+      "correct_answer": "Persistent and determined"
+    },
+    {
+      "question": "Which word means 'to criticize severely'?",
+      "answer1": "Praise",
+      "answer2": "Lambaste",
+      "answer3": "Compliment",
+      "answer4": "Admire",
+      "correct_answer": "Lambaste"
+    },
+    {
+      "question": "What does 'altruistic' mean?",
+      "answer1": "Selfish and self-centered",
+      "answer2": "Showing a disinterested and selfless concern for others",
+      "answer3": "Indifferent to others' needs",
+      "answer4": "Focused solely on personal gain",
+      "correct_answer": "Showing a disinterested and selfless concern for others"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'arbitrary'?",
+      "answer1": "Based on reason or system",
+      "answer2": "Random and without any reason",
+      "answer3": "Carefully planned",
+      "answer4": "Logically derived",
+      "correct_answer": "Random and without any reason"
+    },
+    {
+      "question": "What is the definition of 'arduous'?",
+      "answer1": "Easy and effortless",
+      "answer2": "Requiring great effort or labor",
+      "answer3": "Quick and simple",
+      "answer4": "Relaxing and enjoyable",
+      "correct_answer": "Requiring great effort or labor"
+    },
+    {
+      "question": "Which word means 'to make something appear better or more attractive than it really is'?",
+      "answer1": "Deprecate",
+      "answer2": "Embellish",
+      "answer3": "Diminish",
+      "answer4": "Understate",
+      "correct_answer": "Embellish"
+    },
+    {
+      "question": "What does 'meticulous' mean?",
+      "answer1": "Careless and sloppy",
+      "answer2": "Showing great attention to detail",
+      "answer3": "Quick and rushed",
+      "answer4": "Indifferent to quality",
+      "correct_answer": "Showing great attention to detail"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'exuberant'?",
+      "answer1": "Sad and depressed",
+      "answer2": "Full of energy and excitement",
+      "answer3": "Calm and reserved",
+      "answer4": "Angry and hostile",
+      "correct_answer": "Full of energy and excitement"
+    },
+    {
+      "question": "What is the definition of 'diligent'?",
+      "answer1": "Lazy and unmotivated",
+      "answer2": "Showing persistent and hardworking effort",
+      "answer3": "Careless and negligent",
+      "answer4": "Easily distracted",
+      "correct_answer": "Showing persistent and hardworking effort"
+    },
+    {
+      "question": "Which word means 'to officially reject or refuse to accept'?",
+      "answer1": "Embrace",
+      "answer2": "Repudiate",
+      "answer3": "Endorse",
+      "answer4": "Approve",
+      "correct_answer": "Repudiate"
+    },
+    {
+      "question": "What does 'parsimonious' mean?",
+      "answer1": "Extremely generous",
+      "answer2": "Unwilling to spend money or use resources",
+      "answer3": "Extravagant and wasteful",
+      "answer4": "Careless with money",
+      "correct_answer": "Unwilling to spend money or use resources"
+    },
+    {
+      "question": "Which of the following best describes the meaning of 'gregarious'?",
+      "answer1": "Fond of company and sociable",
+      "answer2": "Preferring solitude",
+      "answer3": "Shy and reserved",
+      "answer4": "Hostile towards others",
+      "correct_answer": "Fond of company and sociable"
+    }
+  ]
+  
